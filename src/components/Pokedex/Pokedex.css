@@ -1,0 +1,19 @@
+.pokedex{
+    height: 500px;
+    position: relative;
+    display: inline;
+    width: 430px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 1px 1px #111111;
+    background-color: red;
+    background: url(../../images/pkdx.png) center/100% ;
+  }
+  .pokedex2{
+    height: 500px;
+    position: relative;
+    display: inline;
+    width: 430px;
+    border-radius: 5px;
+    background-color: red;
+    background: url(../../images/pxdx2.png) left/100% no-repeat;
+  }
